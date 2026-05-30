@@ -1,0 +1,4 @@
+node_modules/
+servia-web/node_modules/
+.next/
+dist/
